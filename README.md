@@ -1,0 +1,1 @@
+# SMA-trading-strategy
